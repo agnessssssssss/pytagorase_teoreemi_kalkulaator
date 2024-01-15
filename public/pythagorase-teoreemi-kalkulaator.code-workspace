@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Downloads/pythagorean-theorem-calculator-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pythagorase-teoreemi-kalkulaator"
+	}
+}
